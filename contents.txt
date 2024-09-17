@@ -1,1 +1,10 @@
-
+1. What is your favourite color?
+2. My favourite color
+3. Total of colors
+4. What is color?
+5. The real meaning of color
+6. What is so special about colors?
+   - It conveys meaning
+   - It conveys feeling
+   - It conveys stories
+7.Final experiment (not confirmed)
