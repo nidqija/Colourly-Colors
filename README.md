@@ -4,7 +4,7 @@
 This is nidqija's Barcamp Cyberjaya 2024 Speaker Topic
 
 Information:
-Day: 21st September 2024
+Day: 21st September 2024 <br>
 Time: 10.30am - 6.00pm
 Venue: FCI CQCR 3004
 
