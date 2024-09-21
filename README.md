@@ -3,7 +3,7 @@
 
 This is nidqija's Barcamp Cyberjaya 2024 Speaker Topic
 
-<strong>Context:</strong>
+<strong>Context:</strong><br>
 We all see colors in our daily routine. However, many of us have overlooked the natural phenomenon that lies within our society.Therefore , this topic has become the choice of mine during my first Barcamp Cyberjaya 2024 speaker slots.
 
 <strong>Information:</strong> <br>
